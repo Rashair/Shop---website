@@ -1,0 +1,165 @@
+.content{
+    padding-right: 30px;
+	margin-left: 300px;
+    
+}
+.block{
+	font-size: 18px;
+	max-height: 260px !important;
+	width: 63%;
+	cursor: inherit;
+    border: none;
+	float:left;
+	display: inline-flex;
+	margin-bottom: 0px;
+	overflow: visible;
+	position: relative;
+	z-index: 9;
+}
+.block:hover{
+	border: none;
+}
+.block_img{
+	float:left;
+	max-width: 300px;
+	height: 250px;
+	margin-left: 30px;
+	margin-right: 10px;
+}
+.product{
+	height: 500px;
+	overflow: hidden;
+}
+.values{
+	font-size:20px;
+	padding-left: 20px;
+	color:darkslateblue;
+}
+.inf{
+	width: 60%;
+	text-align: left;
+	text-overflow:inherit;
+	overflow: inherit;
+	white-space:inherit;
+	padding-left: 30px;
+	color:darkslateblue;
+}
+.price{
+    margin-top: 15px;
+	width:200px;
+    margin-left: -15px;
+	font-size: 23px;
+	margin-bottom: 5px;
+   
+}
+.order{
+	float: left;
+	margin-left: 3%;
+    height:100px;
+	width: 25%;
+	padding-top: 20px;
+	position: relative;
+	z-index: 7;
+	text-align: left;
+	display:block;
+	
+}
+.line2{
+	font-size: 25px;
+	float:left;
+	clear: both;
+	color:darkslateblue;
+	margin-top: 100px;
+	background-image: linear-gradient(to right, aquamarine,transparent);
+	width:50%;	
+	border-radius: 20px;
+	border-collapse:collapse;
+}
+.line2 tr{
+	border-bottom: 2px solid white;
+}
+
+.v_dash{
+	height: 500px;
+	background-color: #555555;
+	width: 2px;
+	position: relative;
+	float: left;
+	z-index: 9;
+	margin-left: 1%;
+}
+.h_dash{
+	width: 100%;
+	background-color: #555555;
+	height: 2px;
+}
+
+/* newsletter*/
+
+.news{
+	font-size:32px;
+	font-family: fantasy;
+}
+.news_inf{
+	padding-left: 30px;
+	font-size: 25px;
+	font-family: cursive;
+}
+.news_bar{
+	display: inline-block;
+	overflow: hidden;
+	
+}
+.news_inp{
+	padding-left: 30px;
+	margin-top: 20px;
+	font-size: 25px;
+	font-family: cursive;
+	border-radius: 30px;
+	background-color: antiquewhite;
+	width: 500px;
+	border:1px solid grey;
+}
+.news_b{
+	border-radius: 30px;
+	background-color:#0083f9;
+	margin-left: -60px;
+	height: 38px;
+	width:60px;
+	text-align: center;
+	align-content: center;
+	color:white;
+	font-size: 20px;
+	border:none;
+	cursor: pointer;
+	margin-top: -10px;
+	vertical-align: middle;
+}
+.basket_add{
+	width: 200px;
+	height: 50px;
+	border-radius: 40px;
+	border-style: solid;
+	font-family: serif;
+	font-size: 20px;
+	background: #2DAD00;
+	color: whitesmoke;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+small{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+
+	
+
+/*
+text-overflow:ellipsis;
+display:inline-flex;
+overflow:hidden;
+white-space:nowrap;
+*/

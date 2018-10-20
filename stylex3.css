@@ -1,0 +1,7 @@
+ 	.bx-wrapper{
+		float: left;
+		margin-left: 50px;
+	}
+	.bx-wrapper, .bx-viewport {
+    height: 270px !important; //provide height of slider
+	}

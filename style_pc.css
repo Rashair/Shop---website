@@ -1,0 +1,18 @@
+	.block{
+		width: 90%;
+	}
+	.inf{
+		display: block;
+		width: 500px;
+	}
+	h2{
+		display: inline;
+	}
+	a{
+		text-decoration: none;
+		color:darkslategray;
+	}
+	.line{
+		margin-top:10px;
+	}
+	
